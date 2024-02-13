@@ -6,3 +6,6 @@ checkpoints
 trash
 examples*
 .env
+resources/voix_leandre.m4a
+resources/voix_leandre_2.m4a
+resources/voix_thomas.m4a
